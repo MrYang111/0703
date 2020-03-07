@@ -1,0 +1,90 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1583328219590" stop="1583328375135">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1583328219590" status="passed" stop="1583328307631">
+      <name>test_contact.TestContact.test_contact1[args0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="10248-MainThread"/>
+        <label name="host" value="USER-20181212QE"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1583328279341" status="passed" stop="1583328280678">
+          <name>点击添加联系人</name>
+          <title>点击添加联系人</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1583328280696" status="passed" stop="1583328285358">
+          <name>点击keeplocal</name>
+          <title>点击keeplocal</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1583328285358" status="passed" stop="1583328302723">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments>
+            <attachment source="db8c09e9-27c4-475e-becf-9c36c24e75d6-attachment.txt" title="输入" type="text/plain"/>
+            <attachment source="c92d921f-2408-4330-a4fa-840173863abb-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1583328302723" status="passed" stop="1583328307631">
+          <name>输入电话</name>
+          <title>输入电话</title>
+          <attachments>
+            <attachment source="a7e23633-c66a-4fb5-83a8-c7bf74f208ec-attachment.txt" title="输入" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1583328314552" status="passed" stop="1583328375135">
+      <name>test_contact.TestContact.test_contact1[args1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="10248-MainThread"/>
+        <label name="host" value="USER-20181212QE"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1583328349925" status="passed" stop="1583328353513">
+          <name>点击添加联系人</name>
+          <title>点击添加联系人</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1583328353513" status="passed" stop="1583328355916">
+          <name>点击keeplocal</name>
+          <title>点击keeplocal</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1583328355916" status="passed" stop="1583328370213">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments>
+            <attachment source="b5e2e512-9395-42bd-ab16-2bedc3772dee-attachment.txt" title="输入" type="text/plain"/>
+            <attachment source="d9ce0668-4a0f-4cfb-9de2-3fa0d32f5b75-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1583328370213" status="passed" stop="1583328375134">
+          <name>输入电话</name>
+          <title>输入电话</title>
+          <attachments>
+            <attachment source="d1b2c3b2-6f9a-455e-b8ff-1e0e5cc25cde-attachment.txt" title="输入" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

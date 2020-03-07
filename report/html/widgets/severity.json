@@ -1,0 +1,21 @@
+[ {
+  "uid" : "65635b4ec9dc6f5",
+  "name" : "test_contact.TestContact.test_contact1[args0]",
+  "time" : {
+    "start" : 1583328219590,
+    "stop" : 1583328307631,
+    "duration" : 88041
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "4ce3354963983e9b",
+  "name" : "test_contact.TestContact.test_contact1[args1]",
+  "time" : {
+    "start" : 1583328314552,
+    "stop" : 1583328375135,
+    "duration" : 60583
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

@@ -1,0 +1,148 @@
+{
+  "uid" : "65635b4ec9dc6f5",
+  "name" : "test_contact.TestContact.test_contact1[args0]",
+  "fullName" : "scripts.test_contact.TestContact.test_contact1[args0]",
+  "historyId" : "88a132a34d8af27a29a66400db65529c",
+  "time" : {
+    "start" : 1583328219590,
+    "stop" : 1583328307631,
+    "duration" : 88041
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击添加联系人",
+      "time" : {
+        "start" : 1583328279341,
+        "stop" : 1583328280678,
+        "duration" : 1337
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击keeplocal",
+      "time" : {
+        "start" : 1583328280696,
+        "stop" : 1583328285358,
+        "duration" : 4662
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "输入用户名",
+      "time" : {
+        "start" : 1583328285358,
+        "stop" : 1583328302723,
+        "duration" : 17365
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "99bd5c187f84371c",
+        "name" : "输入",
+        "source" : "99bd5c187f84371c.txt",
+        "type" : "text/plain",
+        "size" : 5
+      }, {
+        "uid" : "5715a98e1e74126c",
+        "name" : "截图",
+        "source" : "5715a98e1e74126c.png",
+        "type" : "image/png",
+        "size" : 119818
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "输入电话",
+      "time" : {
+        "start" : 1583328302723,
+        "stop" : 1583328307631,
+        "duration" : 4908
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4fc6f21c8d0002ae",
+        "name" : "输入",
+        "source" : "4fc6f21c8d0002ae.txt",
+        "type" : "text/plain",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "USER-20181212QE"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "10248-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_contact.TestContact.test_contact1[args0]"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65635b4ec9dc6f5.json",
+  "parameterValues" : [ ]
+}
